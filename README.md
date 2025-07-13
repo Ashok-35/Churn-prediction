@@ -69,7 +69,7 @@ The model shows strong ability to distinguish between churn and non-churn cases,
 ---
 ## Author
 
-**Ashok Racindran**  
+**Ashok Ravindran**  
 Data Analyst | SQL | Python | Power BI  
 *Email: ashokvravindran@gmail.com*  
 *LinkedIn: https://www.linkedin.com/in/ashok--r/*
